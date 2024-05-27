@@ -1,1 +1,3 @@
-
+server:
+  port: ${PORT:8065}
+message: Configuracion de Producto en el servidor levantado!
