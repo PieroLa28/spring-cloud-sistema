@@ -5,7 +5,7 @@ message: Configuracion de Customer en el servidor levantado!
 spring: 
   datasource:
     driver-class-name: con.mysql.cj.jdbc.Driver
-    password: 1234567890
+    password: 12345678
     url: jdbc:mysql://localhost:3306/crudcloud?serverTimezone=UTC
     username: root
   jpa:
